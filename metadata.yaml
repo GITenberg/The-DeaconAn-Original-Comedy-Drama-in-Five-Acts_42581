@@ -1,0 +1,24 @@
+_repo: The-DeaconAn-Original-Comedy-Drama-in-Five-Acts_42581
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42581-h/images/deacon_cover.jpg
+creator:
+  author:
+    agent_name: Dale, Horace C.
+    gutenberg_agent_id: '41754'
+    url: http://www.gutenberg.org/2009/agents/41754
+description: ''
+gutenberg_issued: '2013-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42581'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: 'The Deacon: An Original Comedy Drama in Five Acts'
+url: http://www.gutenberg.org/ebooks/42581
