@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '41754'
     url: http://www.gutenberg.org/2009/agents/41754
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42581#The-DeaconAn-Original-Comedy-Drama-in-Five-Acts
 gutenberg_issued: '2013-04-22'
 gutenberg_type: Text
 identifiers:
